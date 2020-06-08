@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0868f5ea-df0e-43c7-9ab2-c93f83d1d790" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/logback/log.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/ConnectionManager/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/ConnectionManager/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/ConnectionManager/ConnectionManagerJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/ConnectionManager/ConnectionManagerJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/dao/MobileDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/dao/MobileDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/dao/MobileDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/dao/MobileDaoJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/pojo/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/pojo/Manufacturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stc/inno/pojo/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stc/inno/pojo/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stc/inno/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/TestResultLoggerExtension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stc/inno/dao/MobileDaoJdbcImplTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="inno" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="inno" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="inno" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UbrbqcYK6Twreb6XaxkrJWdSy0" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path" value="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\1" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="stc.inno20.dao" />
+      <recent name="stc.inno20" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src\main\resources" />
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src\main\java" />
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src\test\java" />
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle" />
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src\test" />
+      <recent name="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\src\src" />
+      <recent name="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\src\src\stc\inno20" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build --warning-mode all" />
+      <command value="gradle build -Xlint:deprecation" />
+      <command value="gradle build lint:deprecation" />
+      <command value="gradle lint" />
+      <command value="gradle build --rerun-tasks" />
+      <command value="gradle build " />
+      <command value="gradle bye" />
+      <command value="gradle tasks" />
+      <command value="gradle tasks --all" />
+      <command value="gradle build taskTree" />
+      <command value="gradlew tiTree assemble" />
+      <command value="gradlew tiTree build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.gradle [tiTree build]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stc.inno.Main" />
+      <module name="inno.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gradle [build taskTree]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+            <option value="taskTree" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradle [tiTree assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tiTree" />
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradle [tiTree build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tiTree" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradle [tiTree]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tiTree" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.gradle [build taskTree]" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.gradle [tiTree]" />
+      <item itemvalue="Gradle.gradle [tiTree assemble]" />
+      <item itemvalue="Gradle.gradle [tiTree build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.gradle [tiTree build]" />
+        <item itemvalue="Gradle.gradle [tiTree assemble]" />
+        <item itemvalue="Gradle.gradle [tiTree]" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.gradle [build taskTree]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0868f5ea-df0e-43c7-9ab2-c93f83d1d790" name="Default Changelist" comment="" />
+      <created>1575636209674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575636209674</updated>
+      <workItem from="1575636214111" duration="13369000" />
+      <workItem from="1575828388763" duration="31000" />
+      <workItem from="1576065100393" duration="32000" />
+      <workItem from="1576065178394" duration="19000" />
+      <workItem from="1576065228298" duration="1231000" />
+      <workItem from="1576066481190" duration="9542000" />
+      <workItem from="1591623192176" duration="6672000" />
+      <workItem from="1605274724499" duration="1677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1718" height="708" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1605276055237">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state width="1718" height="708" key="GridCell.Tab.0.bottom.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605276055237" />
+    <state width="1718" height="708" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1605276055237">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state width="1718" height="708" key="GridCell.Tab.0.center.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605276055237" />
+    <state width="1718" height="708" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1605276055237">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state width="1718" height="708" key="GridCell.Tab.0.left.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605276055237" />
+    <state width="1718" height="708" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1605276055237">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state width="1718" height="708" key="GridCell.Tab.0.right.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605276055237" />
+    <state x="-1193" y="374" key="RollbackChangesDialog.inPresentationMode" timestamp="1605274779979">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state x="-1193" y="374" key="RollbackChangesDialog.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605274779979" />
+    <state x="-1288" y="350" width="840" height="1034" key="run.anything.popup.inPresentationMode" timestamp="1605276055229">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state x="-1288" y="350" width="840" height="1034" key="run.anything.popup.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605276055229" />
+    <state x="-1281" y="353" width="840" height="1034" key="search.everywhere.popup.inPresentationMode" timestamp="1605274800832">
+      <screen x="-3440" y="40" width="3440" height="1400" />
+    </state>
+    <state x="-1281" y="353" width="840" height="1034" key="search.everywhere.popup.inPresentationMode/0.40.1536.824/-3440.40.3440.1400@-3440.40.3440.1400" timestamp="1605274800832" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1575640226456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>stc.inno20.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/src$All_in_src.ic" NAME="All in src Coverage Results" MODIFIED="1575655252851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

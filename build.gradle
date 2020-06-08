@@ -1,0 +1,58 @@
+plugins {
+    id 'java'
+    id 'maven-publish'
+    id 'org.barfuin.gradle.taskinfo' version '1.0.1'
+}
+
+group = 'ru.stc'
+version = '1.0-SNAPSHOT'
+
+compileJava.options.encoding = "UTF-8"
+compileTestJava.options.encoding = "UTF-8"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    runtimeOnly 'org.postgresql:postgresql:42.2.8'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.5.2'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.5.2'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+/*
+jar {
+    manifest {
+        attributes 'Main-Class': "stc.inno20.Main"
+    }
+    from { configurations.compileClasspath.collect { it.isDirectory() ? it : zipTree(it) } }
+}
+
+build {
+    doFirst {
+        logger.quiet('Hello inno')
+    }
+}
+task bye {
+    group 'My category'
+    description 'Tasks simple print bye inno'
+    dependsOn build
+    doLast {
+        logger.quiet('doLast1 Bye inno')
+    }
+    doLast {
+        logger.quiet('doLast2 Bye inno')
+    }
+    doFirst {
+        logger.quiet('doFirst1 Bye inno')
+    }
+    doFirst {
+        logger.quiet('doFirst2 Bye inno')
+    }
+}
+
+*/
